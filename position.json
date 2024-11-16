@@ -1,28 +1,28 @@
 {
     "objects": [
         {
-            "X": 1.5,
+            "X": 1,
             "Y": 0.0,
             "Z": 2.0,
-            "text": "First Object"
+            "text": "Atol"
         },
         {
-            "X": -3.0,
+            "X": 2,
             "Y": 1.0,
-            "Z": -2.5,
-            "text": "Second Object"
+            "Z": 2.0,
+            "text": "Abdul"
         },
         {
-            "X": 4.0,
+            "X": 3,
             "Y": 2.0,
-            "Z": 1.0,
-            "text": "Third Object"
+            "Z": 2.0,
+            "text": "Rama"
         },
         {
-            "X": 0.0,
+            "X": 4,
             "Y": 3.0,
-            "Z": -4.0,
-            "text": "Fourth Object"
+            "Z": 2.0,
+            "text": "Riki"
         }
     ]
 }
