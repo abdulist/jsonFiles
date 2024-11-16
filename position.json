@@ -1,0 +1,28 @@
+{
+    "objects": [
+        {
+            "X": 1.5,
+            "Y": 0.0,
+            "Z": 2.0,
+            "text": "First Object"
+        },
+        {
+            "X": -3.0,
+            "Y": 1.0,
+            "Z": -2.5,
+            "text": "Second Object"
+        },
+        {
+            "X": 4.0,
+            "Y": 2.0,
+            "Z": 1.0,
+            "text": "Third Object"
+        },
+        {
+            "X": 0.0,
+            "Y": 3.0,
+            "Z": -4.0,
+            "text": "Fourth Object"
+        }
+    ]
+}
