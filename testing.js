@@ -1,1 +1,0 @@
-const abwba = "Wow";
